@@ -1,0 +1,8 @@
+Student ID,Name,Department,Semester,DBMS,OS,CN,SE,AI,Attendance,Fee Status,CGPA
+CS2021006,Vikram Sharma,Computer Science,6,88,79,84,91,76,87,paid,8.2
+CS2021007,Ananya Iyer,Computer Science,6,94,90,88,96,93,95,paid,9.1
+CS2021008,Rohan Kumar,Computer Science,6,65,70,68,72,60,72,pending,6.7
+CS2021009,Divya Menon,Computer Science,6,82,85,79,88,90,91,paid,8.6
+CS2021010,Sanjay Pillai,Computer Science,6,55,60,58,65,62,68,partial,5.9
+CS2021011,Kavitha Raj,Computer Science,6,90,92,87,94,88,96,paid,9.0
+CS2021012,Aditya Nair,Computer Science,6,73,68,75,70,77,80,paid,7.3
